@@ -1,2 +1,2 @@
 # portfolio
-Site 
+- Site desenvolvido para mostrar meu portfólio
